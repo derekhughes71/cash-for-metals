@@ -3,7 +3,7 @@ Financial institution consumer program that performs various functions
 
 Java software program with UI and backend computations for a financial institution
 
-Performs the following functions to purchase and exchange various forms of currency and valuable metals transactions:
+Performs the following functions to purchase and exchange various forms of currency and valuable metal transactions and comply with user specified operations specifications for each function:
 
 1. Create Personal Customer
 
